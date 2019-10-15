@@ -1,0 +1,109 @@
+[09-Apr-2018 19:25:48 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Barbooking.php on line 193
+[09-Apr-2018 19:26:10 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Barbooking.php on line 163
+[17-Apr-2018 14:22:41 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Promotion.php on line 128
+[20-Apr-2018 12:48:28 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Promotion.php on line 128
+[24-Apr-2018 18:22:24 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Promotion.php on line 128
+[24-Apr-2018 18:23:20 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Promotion.php on line 128
+[24-Apr-2018 18:26:04 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Promotion.php on line 128
+[24-Apr-2018 18:31:11 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Promotion.php on line 128
+[24-Apr-2018 18:33:38 UTC] PHP Parse error:  syntax error, unexpected '13' (T_LNUMBER), expecting function (T_FUNCTION) in /home/mybarnite/public_html/api/application/controllers/Promotion.php on line 19
+[17-Jun-2018 16:51:27 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mybarnite/public_html/api/application/controllers/Feedbacklisting.php on line 11
+[17-Jun-2018 16:58:12 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mybarnite/public_html/api/application/controllers/FeedbackListing.php on line 14
+[17-Jun-2018 17:00:28 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/mybarnite/public_html/api/application/controllers/FeedbackListing.php on line 48
+[17-Jun-2018 17:03:50 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/mybarnite/public_html/api/application/controllers/FeedbackListing.php on line 48
+[23-Nov-2018 13:29:10 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/mybarnite/public_html/api/application/controllers/Eventbooking.php on line 192
+[23-Nov-2018 13:29:57 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/mybarnite/public_html/api/application/controllers/Eventbooking.php on line 198
+[03-Dec-2018 11:40:34 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' in /home/mybarnite/public_html/api/application/controllers/Order.php on line 108
+[22-Dec-2018 08:51:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/mybarnite/public_html/api/application/controllers/Eventbooking.php on line 78
+[22-Dec-2018 08:51:37 UTC] PHP Fatal error:  Call to undefined function dateDiff() in /home/mybarnite/public_html/api/application/controllers/Eventbooking.php on line 80
+[22-Dec-2018 08:53:45 UTC] PHP Fatal error:  Call to undefined function dateDiff() in /home/mybarnite/public_html/api/application/controllers/Eventbooking.php on line 31
+[22-Dec-2018 08:55:10 UTC] PHP Fatal error:  Call to undefined function dateDiff() in /home/mybarnite/public_html/api/application/controllers/Eventbooking.php on line 84
+[22-Dec-2018 08:56:31 UTC] PHP Fatal error:  Call to undefined function dateDiff() in /home/mybarnite/public_html/api/application/controllers/Eventbooking.php on line 84
+[22-Dec-2018 09:00:51 UTC] PHP Fatal error:  Call to undefined function dateDiff() in /home/mybarnite/public_html/api/application/controllers/Eventbooking.php on line 84
+[12-Jan-2019 17:15:21 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 53
+[12-Jan-2019 17:19:27 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 53
+[12-Jan-2019 17:29:13 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 53
+[12-Jan-2019 18:26:37 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 53
+[13-Jan-2019 07:07:25 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 53
+[13-Jan-2019 07:09:49 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 53
+[04-Feb-2019 18:06:06 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/mybarnite/public_html/api/system/database/drivers/mysqli/mysqli_driver.php on line 264
+[08-Feb-2019 17:29:13 UTC] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/mybarnite/public_html/api/application/controllers/ImageUploader.php on line 69
+[08-Feb-2019 17:29:27 UTC] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/mybarnite/public_html/api/application/controllers/ImageUploader.php on line 69
+[08-Feb-2019 17:29:47 UTC] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/mybarnite/public_html/api/application/controllers/ImageUploader.php on line 69
+[08-Feb-2019 17:31:44 UTC] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/mybarnite/public_html/api/application/controllers/ImageUploader.php on line 69
+[08-Feb-2019 17:32:15 UTC] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/mybarnite/public_html/api/application/controllers/ImageUploader.php on line 69
+[08-Feb-2019 17:41:06 UTC] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/mybarnite/public_html/api/application/controllers/ImageUploader.php on line 69
+[08-Feb-2019 17:43:47 UTC] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/mybarnite/public_html/api/application/controllers/ImageUploader.php on line 69
+[08-Feb-2019 17:44:47 UTC] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/mybarnite/public_html/api/application/controllers/ImageUploader.php on line 69
+[24-Feb-2019 13:12:24 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/mybarnite/public_html/api/application/controllers/Events.php on line 172
+[27-Feb-2019 08:42:21 UTC] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/mybarnite/public_html/api/application/controllers/Order.php on line 119
+[27-Feb-2019 08:47:16 UTC] PHP Parse error:  syntax error, unexpected '$subject1' (T_VARIABLE), expecting ',' or ';' in /home/mybarnite/public_html/api/application/controllers/Order.php on line 124
+[27-Feb-2019 09:09:32 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Order.php on line 102
+[28-Feb-2019 17:50:36 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Order.php on line 102
+[28-Feb-2019 18:10:31 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Order.php on line 102
+[28-Feb-2019 18:13:03 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Order.php on line 102
+[28-Feb-2019 18:16:57 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Order.php on line 102
+[23-Mar-2019 17:13:28 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:13:33 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:15:08 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:17:43 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:19:13 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:22:39 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:24:33 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:26:44 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:29:04 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:29:40 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:37:53 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:38:36 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:41:19 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:42:38 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:42:55 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 17:44:41 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 18:09:23 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 18:10:30 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[23-Mar-2019 19:27:27 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[07-Apr-2019 13:44:09 UTC] PHP Fatal error:  Can't use function return value in write context in /home/mybarnite/public_html/api/application/controllers/Eventbooking.php on line 33
+[07-Apr-2019 13:44:57 UTC] PHP Fatal error:  Can't use method return value in write context in /home/mybarnite/public_html/api/application/controllers/Eventbooking.php on line 33
+[15-Apr-2019 18:25:36 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[15-Apr-2019 18:25:49 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[15-Apr-2019 18:26:30 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[15-Apr-2019 18:26:37 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[17-Jul-2019 11:31:20 UTC] PHP Parse error:  syntax error, unexpected '$orderId' (T_VARIABLE) in /home/mybarnite/public_html/api/application/controllers/Order.php on line 342
+[17-Jul-2019 11:50:29 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 53
+[17-Jul-2019 11:51:18 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 53
+[17-Jul-2019 11:52:02 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 53
+[17-Jul-2019 11:56:14 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 256
+[20-Jul-2019 10:59:27 UTC] PHP Fatal error:  Class 'Stripe\PaymentIntent' not found in /home/mybarnite/public_html/api/application/controllers/Order.php on line 376
+[20-Jul-2019 11:00:35 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/mybarnite/public_html/api/application/controllers/Order.php on line 376
+[20-Jul-2019 11:00:55 UTC] PHP Fatal error:  Class 'Stripe\PaymentIntent' not found in /home/mybarnite/public_html/api/application/controllers/Order.php on line 376
+[20-Jul-2019 11:01:58 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/mybarnite/public_html/api/application/controllers/Order.php on line 376
+[20-Jul-2019 11:02:56 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/mybarnite/public_html/api/application/controllers/Order.php on line 376
+[20-Jul-2019 11:05:53 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mybarnite/public_html/api/application/controllers/Order.php on line 381
+[20-Jul-2019 11:06:07 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/mybarnite/public_html/api/application/controllers/Order.php on line 381
+[20-Jul-2019 11:13:33 UTC] PHP Fatal error:  require_once(): Failed opening required '../../config.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/mybarnite/public_html/api/application/controllers/Order.php on line 4
+[20-Jul-2019 11:13:55 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../config.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/mybarnite/public_html/api/application/controllers/Order.php on line 4
+[20-Jul-2019 11:16:30 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../config.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/mybarnite/public_html/api/application/controllers/Order.php on line 4
+[20-Jul-2019 11:17:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/mybarnite/public_html/api/application/controllers/Order.php on line 4
+[20-Jul-2019 11:18:26 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/mybarnite/public_html/api/application/controllers/Order.php on line 381
+[20-Jul-2019 11:20:54 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/mybarnite/public_html/api/application/controllers/Order.php on line 381
+[20-Jul-2019 11:22:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'home/mybarnite/public_html/config.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/mybarnite/public_html/api/application/controllers/Order.php on line 4
+[13-Aug-2019 13:37:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 417
+[13-Aug-2019 13:39:11 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::_error_message() in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 417
+[13-Aug-2019 13:40:14 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::display_errors() in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 417
+[14-Aug-2019 05:28:46 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 422
+[14-Aug-2019 05:29:49 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 422
+[19-Aug-2019 11:16:24 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/User.php on line 557
+[19-Aug-2019 11:17:32 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/User.php on line 557
+[28-Aug-2019 05:50:33 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::_error_message() in /home/mybarnite/public_html/api/application/controllers/User.php on line 605
+[28-Aug-2019 05:51:27 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::_error_message() in /home/mybarnite/public_html/api/application/controllers/User.php on line 605
+[14-Sep-2019 06:16:43 UTC] PHP Parse error:  syntax error, unexpected '' ORDER BY id DESC LIMIT '' (T_CONSTANT_ENCAPSED_STRING) in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 35
+[14-Sep-2019 06:17:07 UTC] PHP Parse error:  syntax error, unexpected '' ORDER BY id DESC LIMIT '' (T_CONSTANT_ENCAPSED_STRING) in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 35
+[14-Sep-2019 06:20:51 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Bar.php on line 49
+[20-Sep-2019 06:11:31 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/mybarnite/public_html/api/application/controllers/User.php on line 245
+[25-Sep-2019 05:01:50 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/mybarnite/public_html/api/application/controllers/Events.php on line 172
+[25-Sep-2019 05:08:07 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[26-Sep-2019 17:40:44 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[01-Oct-2019 05:44:12 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/mybarnite/public_html/api/application/controllers/Events.php on line 172
+[01-Oct-2019 05:50:49 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/EventsLinkedToBar.php on line 60
+[04-Oct-2019 07:55:59 UTC] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/mybarnite/public_html/api/application/controllers/Promotion.php on line 128
+[04-Oct-2019 10:57:17 UTC] PHP Fatal error:  Call to a member function result() on a non-object in /home/mybarnite/public_html/api/application/controllers/Events.php on line 171
